@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adityavikramsinghs
+- 👋 Hi, I’m @Adityavikramsingh
 - 👀 I’m interested in software devlopment.
 - 🌱 I’m currently learning in engineering.
 - 💞️ I’m looking to collaborate on software devlopment activities.
